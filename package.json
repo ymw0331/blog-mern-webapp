@@ -10,7 +10,8 @@
   "author": "Wayne Yong <ymw0331@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "mongodb": "^4.12.1"
   },
   "devDependencies": {
     "concurrently": "^7.6.0",
